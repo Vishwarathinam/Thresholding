@@ -33,8 +33,8 @@ Loop through the images list to display each image alongside its title using plt
 End the program.
 ## Program
 ```
-Developed By: Anto Richard. S
-Register Number: 212221240005
+Developed By: Vishwa Rathinam. S
+Register Number: 212221240063
 Program to segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 ```
 ```
